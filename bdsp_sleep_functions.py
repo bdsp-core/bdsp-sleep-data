@@ -97,6 +97,7 @@ def load_bdsp_signal(path_signal):
         'abd', 'chest', 'abdomen', 'thorax', 'r leg', 'l leg',
         'f3', 'f4', 'c3', 'c4', 'o1', 'o2', 'e1', 'e2', 'm1', 'm2',
         'f3-avg', 'f4-avg', 'c3-avg', 'c4-avg', 'o1-avg', 'o2-avg', 'e1-avg', 'e2-avg',
+        'ppg', 'pleth',
     ]
 
     # select only a subset of ch_available that are present in the code below:
